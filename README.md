@@ -3,6 +3,8 @@
 Conway's Game of Life is a cellular automaton devised by mathematician John Conway. It simulates the evolution of a grid of cells based on a set of simple rules, where each cell can either be alive or dead. The program evolves the grid in discrete time steps, following these rules to create fascinating patterns and dynamics.
 This project implements Conway's Game of Life using C++ and Raylib for graphics rendering. The program allows users to interact with the grid and observe how it evolves over time.
 
+![image](https://github.com/user-attachments/assets/aadbba61-7c89-4668-9b8c-31c423e74729)
+
 ---
 
 ## **Features**
