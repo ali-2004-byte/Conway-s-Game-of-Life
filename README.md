@@ -72,13 +72,21 @@ The grid dynamically adjusts based on window dimensions and cell size.
 
 * **For Visual Studio**
 Follow the official vcpkg installation guide: https://github.com/microsoft/vcpkg
+
 Once extracted. Open it in terminal.
+
 Enter _./bootstrap-vcpkg.bat_
+
 This would download vcpkg executable which would be used to install, update and remove c++ libraries.
+
 Run _./vcpkg integrate install_
+
 This would integrate the package manager with our Visual Studio Installation.
+
 Now,
+
 ./vcpkg install raylib:x64-windows
+
 This would install raylib and would be ready to use.
 
 ---
